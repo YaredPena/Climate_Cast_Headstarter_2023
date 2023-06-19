@@ -1,0 +1,29 @@
+.container {
+  max-width: 1080px;
+  margin: 20px auto;
+}
+
+.Title {
+  text-align: center;
+  color: #d0b8b8b8; /* Replace with your desired color code */
+  font-weight: 600;
+}
+
+/*.smaller-card {
+  font-size: 12px;
+  max-width: 300px;
+}
+
+.smaller-card-image {
+  width: 100%;
+  height: 100px;
+  object-fit: cover;
+}
+
+.smaller-card-title {
+  font-size: 12px;
+}
+
+.smaller-card-text {
+  font-size: 11px;
+}*/
